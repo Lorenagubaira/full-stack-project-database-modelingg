@@ -1,19 +1,19 @@
 ---
-title: "Modelando una base de datos de Zoológicos"
-description: "Una vez que hayas definido el alcance, es una buena idea generar el modelo de la base datos antes de empezar a codear. Esto te ayudará a agilizar el desarrollo de tu proyecto"
+title: "Modeling the database of your Fullstack Developer project"
+description: "Based on the requirements presented to you, create a database model that responds to the approach"
 tags: ["postgres", "modeling","sql","4geeks"]
 authors: ["arnaldoperez"]
 
 ---
 
-## ¿Cómo empezar?
+## How to get started?
 
-1. Inicia sesión en (quickdatabasediagrams.com/)[https://app.quickdatabasediagrams.com/] y crea un nuevo diagrama.
-2. Asegúrate que todos tus compañeros de equipo tambien hayan iniciado sesión e invitalos mediante su correo electrónico (Solo un miembro del equipo debe hacer este paso)
-3. Luego podrás empezar a crear tu modelo y posteriormente compartirlo.
+1. Log on to (quickdatabasediagrams.com/)[https://app.quickdatabasediagrams.com/] and create a new diagram.
+2. Make sure all your teammates are also logged in and invite them via email (Only one team member should do this step).
+3. Then you can start creating your model and later share it.
 
-## 📝Instrucciones
+## 📝Instructions
 
-Crea un modelo de datos basado en las historias de usuario que has definido para tu proyecto. Esto también puede servirte para evaluar el alcance que has definido para este, si notas que necesitas demasiadas tablas y que hacer transacciones para cada una de ellas te va a tomar mas tiempo de lo disponible, puedes ajustar las funcionalidades que incluirás en tu proyecto final.
+Create a data model based on the user stories you have defined for your project. This can also help you to evaluate the scope you have defined for it, if you notice that you need too many tables and that making transactions for each one of them will take you more time than available, you can adjust the functionalities you will include in your final project.
 
 Once you have finished the model be sure to share the link for review.
