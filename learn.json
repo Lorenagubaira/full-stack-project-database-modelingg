@@ -1,0 +1,23 @@
+{
+	"title" : {
+		"es":"Modelando la base de datos de tu proyecto de Desarrollador Fullstack",
+		"us":"Modeling the database of your Fullstack Developer project"
+	},
+	"slug" : "full-stack-project-database-modeling",
+	"preview": "https://github.com/4GeeksAcademy/final-project-full-stack/raw/main/docs/assets/preview.png?raw=true",
+	"difficulty": "intermediate",
+	"technologies": ["final-project","scrum","4geeks","database","postgres","sql","modeling"],
+	"duration" : 1,
+	"description" : {
+    "es":"Una vez que hayas definido el alcance, es una buena idea generar el modelo de la base datos antes de empezar a codear. Esto te ayudará a agilizar el desarrollo de tu proyecto",
+    "us":"Once you have defined the scope, it is a good idea to generate the database model before you start coding. This will help you to speed up the development of your project."
+  },
+  "projectType": "project",
+  "delivery": {
+		"instructions": {
+			"us": "When you have finished building the model, paste the URL here. Remember to create a public link so that everyone can see the model.",
+			"es": "Cuando hayas terminado de construir modelo, pega aquí la URL. Recuerda crear un enlace público para que todos cualquiera ver el modelo."
+		},
+		"formats": ["url"]
+	}
+}
