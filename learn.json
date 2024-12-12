@@ -8,6 +8,7 @@
 	"difficulty": "intermediate",
 	"technologies": ["final-project","scrum","4geeks","database","postgres","sql","modeling"],
 	"duration" : 1,
+	"projectType": "project",
 	"description" : {
     "es":"Una vez que hayas definido el alcance, es una buena idea generar el modelo de la base datos antes de empezar a codear. Esto te ayudará a agilizar el desarrollo de tu proyecto",
     "us":"Once you have defined the scope, it is a good idea to generate the database model before you start coding. This will help you to speed up the development of your project."
