@@ -10,15 +10,17 @@
 	"duration" : 1,
 	"projectType": "project",
 	"description" : {
-    "es":"Una vez que hayas definido el alcance, es una buena idea generar el modelo de la base datos antes de empezar a codear. Esto te ayudará a agilizar el desarrollo de tu proyecto",
-    "us":"Once you have defined the scope, it is a good idea to generate the database model before you start coding. This will help you to speed up the development of your project."
+    "es":"Crea un modelo de base de datos completo para tu proyecto de Desarrollador Fullstack usando QuickDatabaseDiagrams. Colabora con tu equipo para diseñar tablas y relaciones basadas en las historias de usuario de tu proyecto. Este modelo ayudará a definir el alcance y la funcionalidad de tu proyecto, asegurando una gestión y estructura de datos eficiente.",
+    "us":"Create a complete database model for your Fullstack Developer project using QuickDatabaseDiagrams. Collaborate with your team to design tables and relationships based on your project’s user stories. This model will help define your project’s scope and functionality, ensuring efficient data management and structure."
   },
-  "projectType": "project",
   "delivery": {
 		"instructions": {
 			"us": "When you have finished building the model, paste the URL here. Remember to create a public link so that everyone can see the model.",
 			"es": "Cuando hayas terminado de construir modelo, pega aquí la URL. Recuerda crear un enlace público para que todos cualquiera ver el modelo."
 		},
-		"formats": ["url"]
+		"formats": ["url"],
+	  "telemetry": {
+			"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1701"
+		}
 	}
 }
